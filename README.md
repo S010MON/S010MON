@@ -3,9 +3,9 @@
 I am a Data Science and Artificial Intelligence student. Currently on summer break working on personal projects to improve my Python skills looking at ballistics modeling and visualisation.  I'm keen to build a 'Everything From NAND' simulator that will allow a user to build circuits from NAND gates and show how abstraction works from the circuit level up, we shall see how that progresses!
 
 ### Technologies
-  ![](https://img.shields.io/badge/Lang-Java-lightgrey)
-  ![](https://img.shields.io/badge/Lang-Python-lightgrey)
-  ![](https://img.shields.io/badge/Lang-MatLab-lightgrey)
+  ![](https://img.shields.io/badge/Lang-Java-red)
+  ![](https://img.shields.io/badge/Lang-Python-red)
+  ![](https://img.shields.io/badge/Lang-MatLab-red)
   ![](https://img.shields.io/badge/OS-Ubuntu-orange)
   ![](https://img.shields.io/badge/OS-Pop!_OS-blue)
   ![](https://img.shields.io/badge/Editor-Eclipse-blueviolet)
