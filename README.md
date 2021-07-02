@@ -1,5 +1,6 @@
-### Hi there 👋
+### About Me
 
-- I'm interested in 
-- I’m currently working on personal projects to improve my Python skills 
+- I’m currently working on personal projects to improve my Python skills looking at ballistics modeling and visualisation.
+
+- I'm keen to build a 'Everything From NAND' simulator that will allow a user to build circuits from NAND gates and show how abstraction works.
 
