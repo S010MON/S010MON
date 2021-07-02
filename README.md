@@ -4,5 +4,5 @@ I am a Data Science and Artificial Intelligence student. Currently on summer bre
 
 ### Tutoring
 
-If you got here from [SuperProf](https://www.superprof.co.uk/java-data-structures-and-algorithms-tutoring-from-experienced-data-science-and-artificial-intelligence-student.htmltake) a look at my [Tutoring_Notes](https://github.com/S010MON/Tutoring_Notes) repo for easy to read, indexed notes for Java, (Python coming soon!)
+If you got here from [SuperProf](https://www.superprof.co.uk/) a look at my [Tutoring_Notes](https://github.com/S010MON/Tutoring_Notes) repo for easy to read, indexed notes for Java, (Python coming soon!)
 
