@@ -16,7 +16,7 @@ I am a Data Science and Artificial Intelligence student. Currently on summer bre
 
 
 ### LinkedIn
-Connect with me [here](https://www.linkedin.com/in/leon-debnath-33077a21)
+Connect with me [here](https://www.linkedin.com/in/leon-debnath-33077a216?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADaTMFQBAX4RF_0hTa9zaJQ_N9lRPhwP_Zs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B%2FlDE%2Fc2uTxeYMBZwxisQrQ%3D%3D)
 
 ### Tutoring
 
