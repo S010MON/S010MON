@@ -15,6 +15,9 @@ I am a Data Science and Artificial Intelligence student. Currently on summer bre
   ![](https://img.shields.io/badge/Editor-Pycharm-blueviolet)
 
 
+### LinkedIn
+Connect with me [here](https://www.linkedin.com/in/leon-debnath-33077a21)
+
 ### Tutoring
 
 If you got here from [SuperProf](https://www.superprof.co.uk/) check out my [Tutoring_Notes](https://github.com/S010MON/Tutoring_Notes) repo for easy to read notes for Java, (Python coming soon!)
