@@ -5,7 +5,7 @@ I am a Data Science and Artificial Intelligence student. Currently on summer bre
 ### Technologies
   ![](https://img.shields.io/badge/Lang-Java-red)
   ![](https://img.shields.io/badge/Lang-Python-red)
-  ![](https://img.shields.io/badge/Lang-MatLab-red)
+  ![](https://img.shields.io/badge/Lang-Octave-red)
   ![](https://img.shields.io/badge/Framework-Tensorflow-orange)
   ![](https://img.shields.io/badge/Framework-Keras-orange)
   ![](https://img.shields.io/badge/OS-Pop!_OS-blue)
