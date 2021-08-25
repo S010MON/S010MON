@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Data Science and Artificial Intelligence student. Currently on summer break working on personal projects to improve my Python skills looking at ballistics modeling and visualisation.  I'm keen to build a 'Everything From NAND' simulator that will allow a user to build circuits from NAND gates and show how abstraction works from the circuit level up, we shall see how that progresses!
+I am a Data Science and Artificial Intelligence student looking long term to work on a machine learning image geolocation program to identify images for OSINT teams.
 
 ### Technologies
   ![](https://img.shields.io/badge/Lang-Java-red)
