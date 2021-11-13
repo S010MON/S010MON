@@ -20,5 +20,5 @@ Connect with me [here](https://www.linkedin.com/in/leondebnath/)
 
 ### Tutoring
 
-If you got here from [SuperProf](https://www.superprof.co.uk/) check out my [Tutoring_Notes](https://github.com/S010MON/Tutoring_Notes) repo for easy to read notes for Java, (Python coming soon!)
+If you got here from [SuperProf](https://www.superprof.co.uk/) check out my [Tutoring_Notes](https://github.com/S010MON/Tutoring_Notes) repo for easy to read notes and class skeleton examples for Java and Python
 
