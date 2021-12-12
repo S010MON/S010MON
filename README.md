@@ -6,11 +6,14 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
   ![](https://img.shields.io/badge/Lang-Java-red)
   ![](https://img.shields.io/badge/Lang-Python-red)
   ![](https://img.shields.io/badge/Lang-Octave-red)
+  </br>
   ![](https://img.shields.io/badge/Framework-Tensorflow-orange)
   ![](https://img.shields.io/badge/Framework-Pandas-orange)
   ![](https://img.shields.io/badge/Framework-Keras-orange)
+  </br>
   ![](https://img.shields.io/badge/OS-Pop!_OS-blue)
   ![](https://img.shields.io/badge/OS-Ubuntu-blue)
+  </br>
   ![](https://img.shields.io/badge/Editor-Eclipse-blueviolet)
   ![](https://img.shields.io/badge/Editor-Intellij-blueviolet)
   ![](https://img.shields.io/badge/Editor-Pycharm-blueviolet)
