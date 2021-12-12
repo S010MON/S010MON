@@ -13,10 +13,11 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
   </br>
   ![](https://img.shields.io/badge/OS-Pop!_OS-blue)
   ![](https://img.shields.io/badge/OS-Ubuntu-blue)
+  ![](https://img.shields.io/badge/OS-Windows-blue)
   </br>
-  ![](https://img.shields.io/badge/Editor-Eclipse-blueviolet)
   ![](https://img.shields.io/badge/Editor-Intellij-blueviolet)
   ![](https://img.shields.io/badge/Editor-Pycharm-blueviolet)
+  ![](https://img.shields.io/badge/Editor-Eclipse-blueviolet)
 
 
 ### LinkedIn
