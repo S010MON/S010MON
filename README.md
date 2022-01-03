@@ -7,14 +7,14 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
   ![](https://img.shields.io/badge/Lang-Python-red)
   ![](https://img.shields.io/badge/Lang-Octave-red)
   </br>
-  ![](https://img.shields.io/badge/Framework-Tensorflow-green)
-  ![](https://img.shields.io/badge/Framework-Pandas-green)
-  ![](https://img.shields.io/badge/Framework-DeepNetts-green)
-    ![](https://img.shields.io/badge/Framework-Flask-green)
+  ![](https://img.shields.io/badge/Framework-Tensorflow-blue)
+  ![](https://img.shields.io/badge/Framework-Pandas-blue)
+  ![](https://img.shields.io/badge/Framework-DeepNetts-blue)
+    ![](https://img.shields.io/badge/Framework-Flask-blue)
   </br>
-  ![](https://img.shields.io/badge/OS-Pop!_OS-blue)
-  ![](https://img.shields.io/badge/OS-Ubuntu-blue)
-  ![](https://img.shields.io/badge/OS-Windows-blue)
+  ![](https://img.shields.io/badge/OS-Pop!_OS-purple)
+  ![](https://img.shields.io/badge/OS-Ubuntu-purple)
+  ![](https://img.shields.io/badge/OS-Windows-purple)
   </br>
   ![](https://img.shields.io/badge/Editor-Intellij-blueviolet)
   ![](https://img.shields.io/badge/Editor-Pycharm-blueviolet)
