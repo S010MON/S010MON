@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Data Science and Artificial Intelligence student looking long term to work on a machine learning image geolocation program to identify images for OSINT teams.
+I am a Data Science and Artificial Intelligence student looking long term to work on a machine learning image geolocation to identify images for OSINT teams.
 
 ### Technologies
 
