@@ -5,9 +5,8 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
 ### Technologies
 
 ![](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Gradle-grey?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/Springboot-grey?style=for-the-badge&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/Octave-grey?style=for-the-badge&logo=octave&logocolor=white)
-![](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logocolor=white)
 </br>
 ![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
@@ -15,6 +14,9 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
 ![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logocolor=white)
 ![](https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logocolor=white)
+</br>
+![](https://img.shields.io/badge/Octave-grey?style=for-the-badge&logo=octave&logocolor=white)
+![](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logocolor=white)
 </br>
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logocolor=white)
 ![](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logocolor=white)
