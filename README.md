@@ -3,10 +3,11 @@
 I am a Data Science and Artificial Intelligence student looking long term to work on a machine learning image geolocation program to identify images for OSINT teams.
 
 ### Technologies
+  <p>
   ![](https://img.shields.io/badge/Lang-Java-red)
   ![](https://img.shields.io/badge/Lang-Python-red)
   ![](https://img.shields.io/badge/Lang-Octave-red)
-  </br>
+  </p>
   ![](https://img.shields.io/badge/Framework-Tensorflow-blue)
   ![](https://img.shields.io/badge/Framework-Pandas-blue)
   ![](https://img.shields.io/badge/Framework-DeepNetts-blue)
