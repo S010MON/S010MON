@@ -34,5 +34,5 @@ Connect with me [here](https://www.linkedin.com/in/leondebnath/)
 
 ### Tutoring
 
-If you got here from [SuperProf](https://www.superprof.co.uk/) check out my [Tutoring-notes](https://github.com/S010MON/Tutoring-notes) repo for easy to read notes on languages I tutor and [Tutoring-data_structures](https://github.com/S010MON/Tutoring-data_structures) for class skeleton examples for Java
+If you got here from ![SuperProf](https://www.superprof.co.uk/) check out my ![Tutoring-notes](https://github.com/S010MON/Tutoring-notes) repo for easy to read notes on languages I tutor, ![Tutoring-exercises](https://github.com/S010MON/Tutoring-exercises) for some exercises to try out and ![Tutoring-data_structures](https://github.com/S010MON/Tutoring-data_structures) for class skeleton examples for Java
 
