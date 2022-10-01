@@ -14,6 +14,7 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
 ![](https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logocolor=white)
 ![](https://img.shields.io/badge/MATLAB-grey?style=for-the-badge&logo=scikit-learn&logocolor=white)
 ![](https://img.shields.io/badge/Octave-grey?style=for-the-badge&logo=octave&logocolor=white)
+![](https://img.shields.io/badge/Arduino-grey?style=for-the-badge&logo=arduino&logocolor=white)
 ![](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logocolor=white)
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logocolor=white)
 ![](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logocolor=white)
