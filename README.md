@@ -18,7 +18,7 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
 ![](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logocolor=white)
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logocolor=white)
 ![](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logocolor=white)
-![](https://img.shields.io/badge/Pop_OS!-grey?style=for-the-badge&logo=popos&logocolor=white)
+![](https://img.shields.io/badge/Pop!_OS-grey?style=for-the-badge&logo=popos&logocolor=white)
 ![](https://img.shields.io/badge/Ubuntu-grey?style=for-the-badge&logo=ubuntu&logocolor=white)
 ![](https://img.shields.io/badge/Windows-grey?style=for-the-badge&logo=windows&logocolor=white)
 ![](https://img.shields.io/badge/Excel-grey?style=for-the-badge&logo=microsoftexcel&logocolor=white)
