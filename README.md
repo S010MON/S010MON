@@ -10,7 +10,6 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
 ![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logocolor=white)
 ![](https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logocolor=white)
 ![](https://img.shields.io/badge/MATLAB-grey?style=for-the-badge&logo=scikit-learn&logocolor=white)
 ![](https://img.shields.io/badge/Octave-grey?style=for-the-badge&logo=octave&logocolor=white)
