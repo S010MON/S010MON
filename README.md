@@ -23,10 +23,6 @@ I am a Data Science and Artificial Intelligence student looking long term to wor
 ![](https://img.shields.io/badge/Excel-grey?style=for-the-badge&logo=microsoftexcel&logocolor=white)
 
 
-
-### LinkedIn
-Connect with me [here](https://www.linkedin.com/in/leondebnath/)
-
 ### Tutoring
 
 If you got here from [SuperProf](https://www.superprof.co.uk/java-python-matlab-tutoring-from-experienced-data-science-and-artificial-intelligence-student-learn-syntax-oop-data.html) check out my [Tutoring-notes](https://github.com/S010MON/Tutoring-notes) repo for easy to read notes on languages I tutor, [Tutoring-exercises](https://github.com/S010MON/Tutoring-exercises) for some exercises to try out and [Tutoring-data_structures](https://github.com/S010MON/Tutoring-data_structures) for class skeleton examples for Java using generics
