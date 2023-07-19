@@ -1,6 +1,6 @@
 ### About Me
 
-I am a software and machine learning engineer with a keen interest in democratising image geolocation.  I have a bachelors degree in Artificial Intelligence and Data Science and work for a small company as a full stack software developer.  Making state of the art models is cool ... but making them accessable is way cooler.  Check out my ![sudoku solver](https://leondebnath.com/sudoku.html) AI and free to use ![API](https://sudoku.leondebnath.com/docs) as an example.    
+I am a software and machine learning engineer with a keen interest in democratising image geolocation.  I have a bachelors degree in Artificial Intelligence and Data Science and work for a small company as a full stack software developer.  Making state of the art models is cool ... but making them accessable is way cooler.  Check out my [sudoku solver](https://leondebnath.com/sudoku.html) AI and free to use [API](https://sudoku.leondebnath.com/docs) as an example.    
 
 
 ### Technologies
