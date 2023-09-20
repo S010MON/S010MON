@@ -18,8 +18,10 @@ I am a software and machine learning engineer with a keen interest in democratis
 ![](https://img.shields.io/badge/Gradle-grey?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/Springboot-grey?style=for-the-badge&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logocolor=white)
+![](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logocolor=white)
 
 ###### Front-end
+![](https://img.shields.io/badge/</>_htmx-grey?style=for-the-badge&logo=htmx&logocolor=white)
 ![](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logocolor=white)
 ![](https://img.shields.io/badge/vue-grey?style=for-the-badge&logo=vuedotjs&logocolor=white)
 
