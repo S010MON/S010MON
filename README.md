@@ -1,6 +1,6 @@
 ### About Me
 
-I am a software and machine learning engineer with a keen interest in democratising image geolocation.  I have a bachelors degree in Artificial Intelligence and Data Science and work for a small company as a full stack software developer.  Making state of the art models is cool ... but making them accessable is way cooler.  Check out my [sudoku solver](https://leondebnath.com/sudoku.html) AI and free to use [API](https://sudoku.leondebnath.com/docs) as an example.    
+I am the CTO of [codedlaw.co.uk](https://codedlaw.co.uk) a legal tech startup providing transaction management SaaS tools for lightning fast transaction management. I have a bachelors degree in Artificial Intelligence and Data Science and am a full stack software and machine learning engineer with a keen interest in image geolocation, having published my thesis [Proportional Search Space Reduction: A Novel Metric for Image Geolocation Cross-View ](https://leondebnath.com/Debnath-Proportional_Search_Space_Reduction-2023.pdf) at the BeNeLux AI Conference ([BNAIC](https://bnaic2023.tudelft.nl/)).  Making state of the art models is cool ... but making them accessable is way cooler.  Check out my [sudoku solver](https://leondebnath.com/sudoku.html) AI and free to use [API](https://sudoku.leondebnath.com/docs) as an example of models I have made out in the wild.    
 
 
 ### Technologies
