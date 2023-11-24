@@ -21,9 +21,11 @@ I am a software and machine learning engineer with a keen interest in democratis
 ![](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logocolor=white)
 
 ###### Front-end
+![](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5&logocolor=white)
+![](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logocolor=white)
 ![](https://img.shields.io/badge/</>_htmx-grey?style=for-the-badge&logo=htmx&logocolor=white)
 ![](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logocolor=white)
-![](https://img.shields.io/badge/vue-grey?style=for-the-badge&logo=vuedotjs&logocolor=white)
+
 
 ###### Dev Ops
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logocolor=white)
