@@ -26,13 +26,12 @@ I am a software and machine learning engineer with a keen interest in democratis
 ![](https://img.shields.io/badge/</>_htmx-grey?style=for-the-badge&logo=htmx&logocolor=white)
 ![](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logocolor=white)
 
-
 ###### Dev Ops
+![](https://img.shields.io/badge/NGinx-grey?style=for-the-badge&logo=nginx&logocolor=white)
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logocolor=white)
 ![](https://img.shields.io/badge/Github_Actions-grey?style=for-the-badge&logo=githubactions&logocolor=white)
 ![](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logocolor=white)
-![](https://img.shields.io/badge/Pop!_OS-grey?style=for-the-badge&logo=popos&logocolor=white)
-![](https://img.shields.io/badge/Ubuntu-grey?style=for-the-badge&logo=ubuntu&logocolor=white)
+![](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logocolor=white)
 
 ###### Embedded Systems
 ![](https://img.shields.io/badge/Arduino-grey?style=for-the-badge&logo=arduino&logocolor=white)
