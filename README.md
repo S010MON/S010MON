@@ -32,6 +32,7 @@ I am the CTO of [codedlaw.co.uk](https://codedlaw.co.uk) a legal tech startup pr
 ![](https://img.shields.io/badge/Github_Actions-grey?style=for-the-badge&logo=githubactions&logocolor=white)
 ![](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logocolor=white)
 ![](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logocolor=white)
+![](https://img.shields.io/badge/BaSH-grey?style=for-the-badge&logo=gnubash&logocolor=white)
 
 ###### Embedded Systems
 ![](https://img.shields.io/badge/Arduino-grey?style=for-the-badge&logo=arduino&logocolor=white)
