@@ -9,7 +9,8 @@ I have a bachelors degree in Artificial Intelligence and Data Science and am a f
 ![](https://img.shields.io/badge/Octave-grey?style=for-the-badge&logo=octave&logocolor=white)
 ![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Keras-grey?style=for-the-badge&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ###### Back-end
@@ -18,6 +19,7 @@ I have a bachelors degree in Artificial Intelligence and Data Science and am a f
 ![](https://img.shields.io/badge/Gradle-grey?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/Springboot-grey?style=for-the-badge&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logocolor=white)
+![](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql&logocolor=white)
 ![](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb&logocolor=white)
 
 ###### Front-end
@@ -30,9 +32,12 @@ I have a bachelors degree in Artificial Intelligence and Data Science and am a f
 ![](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logocolor=white)
 ![](https://img.shields.io/badge/BaSH-grey?style=for-the-badge&logo=gnubash&logocolor=white)
 ![](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker&logocolor=white)
+![](https://img.shields.io/badge/Podman-grey?style=for-the-badge&logo=podman&logocolor=white)
 ![](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logocolor=white)
 ![](https://img.shields.io/badge/Github_Actions-grey?style=for-the-badge&logo=githubactions&logocolor=white)
 ![](https://img.shields.io/badge/NGinx-grey?style=for-the-badge&logo=nginx&logocolor=white)
+![](https://img.shields.io/badge/Traefik-grey?style=for-the-badge&logo=traefikproxy#24A1C1&logocolor=white)
+![](https://img.shields.io/badge/Azure-grey?style=for-the-badge&logo=microsoftazure&logocolor=white)
 
 ###### Embedded Systems
 ![](https://img.shields.io/badge/Arduino-grey?style=for-the-badge&logo=arduino&logocolor=white)
