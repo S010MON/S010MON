@@ -38,6 +38,7 @@ I am a software and machine learning engineer at [Aleph Insights](https://alephi
 ![](https://img.shields.io/badge/NGinx-grey?style=for-the-badge&logo=nginx&logocolor=white)
 ![](https://img.shields.io/badge/Traefik-grey?style=for-the-badge&logo=traefikproxy#24A1C1&logocolor=white)
 ![](https://img.shields.io/badge/Azure-grey?style=for-the-badge&logo=microsoftazure&logocolor=white)
+![](https://img.shields.io/badge/akamai-grey?style=for-the-badge&logo=akamai&logocolor=white)
 
 ###### Embedded Systems
 ![](https://img.shields.io/badge/Arduino-grey?style=for-the-badge&logo=arduino&logocolor=white)
