@@ -9,7 +9,6 @@ I am a software and machine learning engineer at [Aleph Insights](https://alephi
 ![](https://img.shields.io/badge/Octave-grey?style=for-the-badge&logo=octave&logocolor=white)
 ![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white)
 
