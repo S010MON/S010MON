@@ -41,6 +41,7 @@ I am a software and machine learning engineer at [Aleph Insights](https://alephi
 
 ###### Embedded Systems
 ![](https://img.shields.io/badge/Arduino-grey?style=for-the-badge&logo=arduino&logocolor=white)
+![](https://img.shields.io/badge/Raspberry_Pi-grey?style=for-the-badge&logo=raspberrypi&logocolor=white)
 
 ### Tutoring
 
