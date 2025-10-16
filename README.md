@@ -11,6 +11,10 @@ I am a software and machine learning engineer at [Aleph Insights](https://alephi
 ![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Ollama-grey?style=for-the-badge&logo=ollama&logoColor=white)
+![](https://img.shields.io/badge/Huggingface-grey?style=for-the-badge&logo=huggingface&logoColor=white)
+
+
 
 ###### Back-end
 ![](https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi&logocolor=white)
@@ -38,6 +42,7 @@ I am a software and machine learning engineer at [Aleph Insights](https://alephi
 ![](https://img.shields.io/badge/Traefik-grey?style=for-the-badge&logo=traefikproxy#24A1C1&logocolor=white)
 ![](https://img.shields.io/badge/Azure-grey?style=for-the-badge&logo=microsoftazure&logocolor=white)
 ![](https://img.shields.io/badge/akamai-grey?style=for-the-badge&logo=akamai&logocolor=white)
+![](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=aws&logocolor=white)
 
 ###### Embedded Systems
 ![](https://img.shields.io/badge/Arduino-grey?style=for-the-badge&logo=arduino&logocolor=white)
